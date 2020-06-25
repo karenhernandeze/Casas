@@ -2,21 +2,21 @@
   {
     "id": 1,
     "name": "Los Arcos",
-    "price": 234,244,  
+    "price": 234244,  
     "rooms": 2,
     "description": "something here"
   },
   {
     "id": 2,
     "name": "Los Arcos",
-    "price": 234,244,  
+    "price": 234244,  
     "rooms": 2,
     "description": "something here"
   },
   {
     "id": 3
     "name": "Los Arcos",
-    "price": 234,244,  
+    "price": 234244,  
     "rooms": 2,
     "description": "something here"
   }
