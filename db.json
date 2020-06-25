@@ -1,4 +1,4 @@
-
+[
   {
     "id": 1,
     "name": "Los Arcos",
@@ -20,4 +20,4 @@
     "rooms": 2,
     "description": "something here"
   }
-
+]
